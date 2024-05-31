@@ -13,7 +13,6 @@ import Profile from "./pages/Profile";
 import Home from "./pages/Home";
 
 // THIS IS A LINE OF MODIFICATION IN TSX.
-// THIS IS A LINE OF MODIFICATION FOR R5
 
 const App: React.FC = () => {
   return (
