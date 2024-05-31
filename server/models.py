@@ -1,5 +1,7 @@
 from flask_sqlalchemy import SQLAlchemy
 
+# This is also a line of modification
+
 db = SQLAlchemy()
 
 class User(db.Model):

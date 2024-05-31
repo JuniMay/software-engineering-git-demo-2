@@ -12,6 +12,8 @@ import AdminManagement from "./pages/AdminManagement";
 import Profile from "./pages/Profile";
 import Home from "./pages/Home";
 
+// THIS IS A LINE OF MODIFICATION IN TSX.
+
 const App: React.FC = () => {
   return (
     <Router>
